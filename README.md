@@ -49,11 +49,13 @@
 
 ### 方式一：直接使用 GitHub Pages 線上版
 1. 透過手機（iPhone Safari / Android Chrome）或電腦瀏覽器開啟本專案的 GitHub Pages 網址。
+網頁入口
+https://jimmy20056666.github.io/bindou/
 2. 點擊右上角 **「⚙️ 旅程設定」** 設定您的旅遊名稱與交通模式，即可開始規劃行程。
 3. 將網頁**加入手機主畫面（Add to Home Screen）**，即可像原生 App 一樣全螢幕開啟使用。
 
 ### 方式二：下載單一檔案離線使用或自行架設
-1. 下載本儲存庫中的 `open_travel_planner_offline.html`（若部署至 GitHub Pages，可將檔案重新命名為 `index.html` 推上 GitHub 儲存庫並啟用 GitHub Pages）。
+1. 下載本儲存庫中的 `index.html`
 2. 無需安裝任何套件（Zero Dependencies）、無需建置步驟，直接用任何現代瀏覽器開啟即可運作。
 
 
